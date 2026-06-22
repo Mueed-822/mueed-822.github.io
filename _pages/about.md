@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='http://www.bmie.neu.edu.cn'>School of Medicine and Biological Information Engineering</a>, Northeastern University, Shenyang, China
 profile:
